@@ -5,7 +5,7 @@
 		- [ ] free software (vs open software)
 	- [ ] What is the impact of not using safe software
 	- [ ] why privacy matters
-	- [ ] Why you need a VPN
+	- [X] Why you need a VPN
 	- [ ] Safe emailing
 	- [ ] Safe texting
 	- [ ] Safe calling
@@ -37,6 +37,9 @@
 	- [ ] crypto.amsterdam
 		- [ ] Mission statement
 		- [ ] Information on planned/upcoming meetups
+            - [ ] How to RSVP for meetups
+            - [ ] No picture / privacy policy at meetups
+        - [x] Values statement
 	- [ ] TOR
 		- [ ] Whats tor, and why is it important
 		- [ ] how to use tor
