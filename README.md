@@ -11,6 +11,11 @@
 	- [ ] Safe calling
 	- [ ] Safe file sharing
 	- [ ] How do we know you are the real you online (digital signatures, pgp)
+        - [ ] Signing commits
+        - [ ] Email signing
+        - [ ] Document signing
+            - [ ] Mac
+            - [ ] Linux
 	- [ ] How to encrypt files
 	- [ ] What is PGP?
 	- [ ] What is key signing?
