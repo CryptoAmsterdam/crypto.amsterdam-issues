@@ -1,1 +1,45 @@
 # crypto.amsterdam-issues
+
+- [ ] pages
+	- [ ] What do we consider safe software
+		- [ ] free software (vs open software)
+	- [ ] What is the impact of not using safe software
+	- [ ] why privacy matters
+	- [ ] Why you need a VPN
+	- [ ] Safe emailing
+	- [ ] Safe texting
+	- [ ] Safe calling
+	- [ ] Safe file sharing
+	- [ ] How do we know you are the real you online (digital signatures, pgp)
+	- [ ] How to encrypt files
+	- [ ] What is PGP?
+	- [ ] What is key signing?
+	- [ ] Encrypt your mac
+	- [ ] How to browse without tracking
+	- [ ] How do we know you are the real you?
+	- [ ] Set up your computer without backdoors
+	- [ ] Microphone/Webcam monitoring
+	- [ ] Is android always safer? No.
+	- [ ] Updates are mega super important
+	- [ ] Alternatives to the google
+	- [ ] How to store your passwords safely
+	- [ ] Firewall for your mac
+	- [ ] Backing up without sharing your data (encrypted)
+	- [ ] Pay securely without being tracked
+	- [ ] What are backdoors? And how to get rid of them
+    - [ ] How to cross borders safely
+    - [ ] No, "viruses" do exist for your Mac. 
+	- [ ] crypto.amsterdam
+		- [ ] Mission statement
+		- [ ] Information on planned/upcoming meetups
+	- [ ] TOR
+		- [ ] Whats tor, and why is it important
+		- [ ] how to use tor
+		- [ ] hidden services
+		- [ ] hidden stealth addresses
+- [ ] Set up webserver / wiki
+- [ ] Services 
+    -  [ ] TOR Relay nodes
+    -  [ ] TOR Exit nodes
+    -  [ ] PGP Mirror
+    -  [ ] PGP Key signing meetups
