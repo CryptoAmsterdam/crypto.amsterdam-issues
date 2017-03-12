@@ -46,6 +46,11 @@
 		- [ ] hidden services
 		- [ ] hidden stealth addresses
 - [ ] Set up webserver / wiki
+    - [x] order vps
+    - [ ] 
+- marketing
+    - logo
+    - stickers
 - [ ] Services 
     -  [ ] TOR Relay nodes
     -  [ ] TOR Exit nodes
